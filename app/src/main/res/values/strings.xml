@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="full_title_label">Full Title</string>
+    <string name="crew_label">Crew</string>
+    <string name="rating_label">Rating</string>
+    <string name="rating_count_label">Rating Count</string>
+    <string name="rank_label">Rank</string>
+    <string name="fragment_movie_title">Movies</string>
+    <string name="fragment_tvshow_title">Tv Shows</string>
+    <string name="order_by_rank">By Rank</string>
+    <string name="order_by_title">By Title</string>
+</resources>
